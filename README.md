@@ -1,3 +1,4 @@
 # python-program-
-A python project containing basic number analysis and logic function.\n
+A python project containing basic number analysis and logic function.
+<br>
 Author - Narayan patel
